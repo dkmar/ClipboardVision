@@ -1,4 +1,0 @@
-module KeyboardShortcuts {
-    header "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts-Swift.h"
-    requires objc
-}

@@ -1,0 +1,4 @@
+module GoogleGenerativeAI {
+    header "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/GoogleGenerativeAI.build/GoogleGenerativeAI-Swift.h"
+    requires objc
+}

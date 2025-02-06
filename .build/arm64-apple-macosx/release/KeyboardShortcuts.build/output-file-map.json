@@ -1,0 +1,62 @@
+{
+  "": {
+    "dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts.d",
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts.o",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/master.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/CarbonKeyboardShortcuts.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/CarbonKeyboardShortcuts.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/CarbonKeyboardShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/CarbonKeyboardShortcuts.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Key.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Key.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Key~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Key.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/KeyboardShortcuts.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/NSMenuItem++.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/NSMenuItem++.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/NSMenuItem++~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/NSMenuItem++.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Name.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Name.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Name~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Name.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Recorder.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Recorder.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Recorder~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Recorder.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/RecorderCocoa.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/RecorderCocoa.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/RecorderCocoa~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/RecorderCocoa.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Shortcut.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Shortcut.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Shortcut~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Shortcut.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Utilities.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Utilities.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/Utilities.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/ViewModifiers.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/ViewModifiers.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/ViewModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/ViewModifiers.swiftdeps"
+  },
+  "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/dkmar/Projects/ClipboardVision/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/resource_bundle_accessor.swiftdeps"
+  }
+}

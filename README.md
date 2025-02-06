@@ -17,18 +17,15 @@ ClipboardVision is a macOS utility that provides quick OCR (Optical Character Re
 ## Installation
 Download the [release](https://github.com/dkmar/ClipboardVision/releases/download/0.1/ClipboardVision.zip)
 
-OR 
-
-1. Clone the repository
-2. Set up your Gemini API key using one of these methods:
-   - Set environment variable: `GEMINI_API_KEY=your_api_key`
-   - Create a config file:
-     ```bash
-     mkdir -p ~/.config/ClipboardVision
-     echo "GEMINI_API_KEY=your_api_key" > ~/.config/ClipboardVision/.env
-     ```
-3. Build and run the application
-
+## Setup
+Set up your Gemini API key using one of these methods:
+ - Set environment variable: `GEMINI_API_KEY=your_api_key`
+ - Create a config file:
+  ```bash
+  mkdir -p ~/.config/ClipboardVision
+  echo "GEMINI_API_KEY=your_api_key" > ~/.config/ClipboardVision/.env
+  ```
+  
 ## Usage
 
 1. Copy an image containing text to your clipboard

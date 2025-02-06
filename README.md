@@ -15,7 +15,7 @@ ClipboardVision is a macOS utility that provides quick OCR (Optical Character Re
 - Google Gemini API key
 
 ## Installation
-Download the [release](github.com/dkmar/ClipboardVision/releases/latest/download/ClipboardVision.zip)
+Download the [release](https://github.com/dkmar/ClipboardVision/releases/download/0.1/ClipboardVision.zip)
 
 1. Clone the repository
 2. Set up your Gemini API key using one of these methods:

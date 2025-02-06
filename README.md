@@ -4,7 +4,6 @@ ClipboardVision is a macOS utility that provides quick OCR (Optical Character Re
 
 ## Features
 
-- Sits quietly in the menu bar
 - Global keyboard shortcut (default: ⌃⌘⇧5) to trigger OCR
 - Automatically replaces clipboard image with extracted text
 - Visual status indicator showing process state
@@ -16,6 +15,7 @@ ClipboardVision is a macOS utility that provides quick OCR (Optical Character Re
 - Google Gemini API key
 
 ## Installation
+Download the [release](github.com/dkmar/ClipboardVision/releases/latest/download/ClipboardVision.zip)
 
 1. Clone the repository
 2. Set up your Gemini API key using one of these methods:
